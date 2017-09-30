@@ -1,0 +1,5 @@
+.job-slice {
+    -fx-border-color: black;
+    -fx-border-style: solid;
+    -fx-padding: 0 5 0 0;
+}
